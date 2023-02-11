@@ -1,3 +1,0 @@
-function TaskList() {
-  var arr = [];
-}
